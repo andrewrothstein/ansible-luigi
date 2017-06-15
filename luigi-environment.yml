@@ -1,0 +1,4 @@
+---
+dependencies:
+  - python={{luigi_python_ver}}
+  - luigi
