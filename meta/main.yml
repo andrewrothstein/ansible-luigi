@@ -23,10 +23,6 @@ galaxy_info:
     - development
 
 dependencies:
-  - src: andrewrothstein.miniconda
-    version: v5.0.0
-    miniconda_make_sys_default: True
-    miniconda_cleanup: True
   - src: andrewrothstein.conda-env
     version: v2.0.1
     conda_env_name: luigi
