@@ -1,3 +1,4 @@
 ---
 # defaults file for luigi
 luigi_python_ver: '3.6'
+luigi_ver: '2.7.0'
