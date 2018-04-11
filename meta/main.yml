@@ -24,7 +24,7 @@ galaxy_info:
 
 dependencies:
   - src: andrewrothstein.conda-env
-    version: v2.0.1
+    version: v2.0.3
     conda_env_name: luigi
     conda_env_environment: luigi-environment.yml
 
