@@ -1,6 +1,6 @@
 ---
+channels:
+  - conda-forge
 dependencies:
   - python={{luigi_python_ver}}
-  - pip
-  - pip:
-      - luigi=={{luigi_ver}}
+  - luigi={{luigi_ver}}

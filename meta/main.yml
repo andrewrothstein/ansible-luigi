@@ -27,5 +27,3 @@ dependencies:
     version: v2.0.5
     conda_env_name: luigi
     conda_env_environment: luigi-environment.yml
-
-  
